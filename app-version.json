@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "version": "0.1.0",
+ "tag": "v0.1.0",
+ "published": "2026-11-01T01:45:41Z",
+ "download": {
+  "fr": "https://xavfrech-dev.github.io/telecharger/",
+  "en": "https://xavfrech-dev.github.io/en/download/",
+  "de": "https://xavfrech-dev.github.io/de/download/"
+ },
+ "assets": {
+  "windows": "https://github.com/xavfrech-dev/realmshard/releases/download/v0.1.0/REALMSHARD-Windows-Setup.exe",
+  "macos": "https://github.com/xavfrech-dev/realmshard/releases/download/v0.1.0/REALMSHARD-macOS.dmg",
+  "android": "https://github.com/xavfrech-dev/realmshard/releases/download/v0.1.0/REALMSHARD-Android.apk"
+ }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xavfrech-dev.github.io/sitemap.xml
