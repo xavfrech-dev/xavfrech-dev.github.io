@@ -2,7 +2,7 @@
  "schema": 1,
  "version": "0.1.2",
  "tag": "v0.1.2",
- "published": "2026-11-07T02:22:05.301Z",
+ "published": "2026-11-08T01:36:10.539Z",
  "download": {
   "fr": "https://xavfrech-dev.github.io/telecharger/",
   "en": "https://xavfrech-dev.github.io/en/download/",
@@ -13,5 +13,5 @@
   "macos": "https://realmshard.fr/download/REALMSHARD-macOS.dmg",
   "android": "https://realmshard.fr/download/REALMSHARD-Android.apk"
  },
- "latest": "0.1.7"
+ "latest": "0.1.8"
 }
